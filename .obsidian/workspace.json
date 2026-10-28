@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AGENT_C.md",
+                "file": "discussion.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AGENT_C"
+              "title": "discussion"
             }
           }
         ],
@@ -203,17 +203,18 @@
       "bases:새 베이스 생성하기": false
     }
   },
-  "active": "b336579fd1ad50ee",
+  "active": "196119b72988860e",
   "lastOpenFiles": [
+    "AGENT_A/[A]Person_작명가안_검토_및_합의.md",
+    "naming_guide.md.md",
+    "discussion.md",
+    "discussion.md.md",
+    "AGENT_C.md",
     "README.md",
     "LICENSE",
     "AGENT_C/[C]토론_검증_및_최종_작명_보고서.md",
-    "AGENT_C.md",
     "final_selection.md",
     "AGENT_C",
-    "discussion.md",
-    "discussion.md.md",
-    "naming_guide.md.md",
     "AGENT_B",
     "AGENT_A",
     "AGENT_A/[A]아기_이름_검토_보고서.md"
